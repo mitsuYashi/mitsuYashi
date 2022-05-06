@@ -3,9 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitsuYashi)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitsuYashi&theme=solarized)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mitsuYashi&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mitsuYashi&theme=solarized&utcOffset=8)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <a href="https://github.com/mitsuYashi/mitsuYashi/">
