@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitsuYashi)](https://github.com/anuraghazra/github-readme-stats)
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoge&theme=dracula
+
 <p align="left">
   <a href="https://github.com/mitsuYashi/mitsuYashi/">
     <img src="https://komarev.com/ghpvc/?username=mitsuYashi" alt="mitsuYashi" />
