@@ -6,8 +6,8 @@
   <a href="https://github.com/mitsuYashi/mitsuYashi/">
     <img src="https://komarev.com/ghpvc/?username=mitsuYashi" alt="mitsuYashi" />
   </a>
-  <a href="http://twitter.com/mitsuYashi">
-    <img height="20" src="https://img.shields.io/twitter/follow/mitsuYashi?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/kdraaamen">
+    <img height="20" src="https://img.shields.io/twitter/follow/kdraaamen?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/mitsuYashi">
     <img height="20" src="https://img.shields.io/github/followers/mitsuYashi?label=follow&logo=github&style=flat" />
